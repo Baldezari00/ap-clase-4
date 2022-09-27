@@ -1,0 +1,62 @@
+body{
+    background-color: lime;
+    text-align: center;
+    background-image: url(./img\ fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 120%;
+}
+.listas{
+    border: 2px solid black;
+
+
+}
+
+body img{
+    height: 450px;
+    width: 850px;
+}
+
+#video{
+    width:560px;
+    height:315px;
+
+}
+
+body p{
+    border: 1px dashed green;
+    
+}
+.PR{
+    background-color: red;
+}
+body p{
+    
+        font-family: 'Roboto', sans-serif;
+        
+    
+}
+.titulos{
+    font-family: 'Oswald', sans-serif;
+    font-size: 130%;
+    
+}
+#imgD{
+    background-color: rgb(2, 96, 173);
+}
+body li {
+    font-size: 120%;
+    
+    
+   
+}
+#mira{
+    font-size: 100px;
+}
+#iconos{
+    font-size: 100px;
+    margin: 30px;
+    padding: 70px;
+    
+}
